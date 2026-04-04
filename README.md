@@ -1,2 +1,2 @@
 ## Hello👋🏻
-I'm Shresth I like to program some fun things.
+I like to program some fun things.
