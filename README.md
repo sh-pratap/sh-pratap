@@ -1,2 +1,2 @@
-## Hello👋🏻
+## Hello
 I program some things
