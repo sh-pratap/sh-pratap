@@ -1,2 +1,2 @@
 ## Hello👋🏻
-I like to program some fun things.
+I program some things
