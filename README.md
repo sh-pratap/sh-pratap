@@ -1,2 +1,2 @@
 ## Hello
-I program some things.
+I mostly make things that seem fun to me.
